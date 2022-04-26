@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "white",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navigation-bar":"/components/navigation-bar/index"
+  }
+}
